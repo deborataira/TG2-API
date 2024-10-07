@@ -30,6 +30,7 @@ Tenho conhecimento no uso de GitHub, Python, Photoshop e possuo grande interesse
 ### Empresa Parceira
 
 **FATEC - Professor Jessen Vidal**  
+
 A Faculdade de Tecnologia de São José dos Campos, sob a responsabilidade do Professor Jessen Vidal, é uma instituição pública do Centro Estadual de Educação Tecnológica Paula Souza, que oferece formação em diversas áreas, incluindo Análise e Desenvolvimento de Sistemas.
 
 ### Problema
@@ -39,6 +40,7 @@ A empresa parceira solicitou um sistema que possibilitasse a catalogação efici
 ### Solução
 
 Desenvolvemos o "DispVag", um Sistema Web intuitivo para a catalogação de vagas de emprego. O site armazena informações detalhadas sobre as vagas disponíveis, incluindo gráficos para visualização de dados e uma seção de perguntas frequentes para esclarecer dúvidas dos usuários. 
+
 ![image](https://github.com/user-attachments/assets/f93f9436-7c82-46c8-99b3-e10009ea3178)
 
 
@@ -99,6 +101,7 @@ As Soft Skills que utilizei durante o projeto foram:
 
 **Empresa Parceira**  
 **TRACKCASH**  
+
 A TrackCash é uma empresa focada na gestão financeira, que auxilia negócios de diversos tamanhos na organização de suas finanças. A empresa oferece soluções B2B para conciliar vendas e pagamentos de várias plataformas, como e-commerce, marketplace e lojas físicas.
 
 **Problema**  
@@ -106,6 +109,7 @@ O cliente apresentou a necessidade de uma aplicação onde seus clientes pudesse
 
 **Solução**  
 Desenvolvemos um CRUD intuitivo que permite aos clientes da TrackCash autorizarem o acesso aos seus dados por meio de login (e-mail/senha) ou tokens. A aplicação também oferece configurações automatizadas com APIs e planilhas, armazenando essas informações de maneira segura.  
+
 ![image](https://github.com/user-attachments/assets/c55e3071-4155-4263-a31f-6d89d72ae108)
 
 **Link do Repositório Git**  
@@ -157,6 +161,7 @@ As softs skills que utilizei neste semestre foram:
 ### Empresa Parceira
 
 **VISIONA - Tecnologia Espacial**  
+
 A Visiona Tecnologia Espacial foi fundada em 2012 como uma parceria estratégica entre a Embraer Defesa & Segurança e a Telebras. A empresa se dedica à integração de sistemas espaciais e à oferta de serviços via satélite, atendendo tanto os objetivos do Programa Espacial Brasileiro quanto as demandas do mercado.
 
 ### Problema
@@ -166,6 +171,7 @@ O cliente enfrentava a falta de um sistema de gerenciamento de usuários que inc
 ### Solução
 
 Desenvolvemos uma interface de gerenciamento intuitiva que atende aos parâmetros estabelecidos pelo cliente. A plataforma permite listar, adicionar, editar, deletar usuários e atribuir permissões, além de gerar dashboards para visualização de dados.
+
 ![image](https://github.com/user-attachments/assets/3745cab3-f67b-4769-bbf7-f21c1ed93951)
 
 
@@ -226,6 +232,7 @@ As Soft Skills que utilizei durante o projeto foram:
 
 ### Empresa Parceira
 **Grenneat** - Limpeza Sustentável  
+
 A Grenneat atua no desenvolvimento de produtos de limpeza sustentáveis, focando na economia circular e na comercialização de saneantes.
 
 ### Problema
@@ -233,6 +240,7 @@ O Brasil enfrenta um desafio ambiental grave, com apenas 2% do óleo vegetal sen
 
 ### Solução
 Desenvolvemos uma plataforma para engajar todos os agentes na cadeia de descarte e reciclagem do óleo usado. Com um sistema de créditos, estabelecimentos cadastrados podem acumular pontos ao descartar o óleo, que são trocados por produtos de limpeza sustentável na loja virtual da Grenneat. Isso promove a economia circular, reciclando o óleo em produtos de limpeza que podem ser adquiridos pelos participantes do sistema.
+
 ![image](https://github.com/user-attachments/assets/84d632ba-9334-42a7-91c9-ad54bcee1942)
 
 ### Link do Repositório Git
@@ -280,6 +288,7 @@ As soft skills que utilizei durante o projeto foram:
 ## Primeiro Semestre – 2024-1
 
 **Oracle**  
+
 A Oracle é uma referência em tecnologia da informação, especializada em soluções para gerenciamento de banco de dados. Com sua fundação em 1977, a empresa atende mais de 400 mil clientes em 140 países, buscando sempre acelerar a inovação nos negócios.
 
 ### Problema
@@ -287,6 +296,7 @@ A Oracle enfrenta desafios significativos na gestão dos seus parceiros de negó
 
 ### Solução
 Desenvolvemos um sistema de gestão de parceiros, voltado para dispositivos móveis. Essa plataforma permite listar todos os parceiros, monitorar o progresso de aprendizado, registrar as habilidades adquiridas, cadastrar novos parceiros, gerar relatórios de desempenho e exibir dashboards informativos sobre o status dos parceiros e suas competências.
+
 
 ![image](https://github.com/user-attachments/assets/775c8697-c826-4b2a-97c7-b84fb126df1f)
 
