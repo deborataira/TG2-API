@@ -6,7 +6,8 @@
 <img src="https://github.com/deborataira/imagens/blob/main/foto%20perfil.jpeg" width="250" height="300" align="center">
 </p>
 
-Meu nome é Debora Taira Novaes, tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas na FATEC Professor Jessen Vidal, atualmente cursando o 6º semestre. Cursei o ensino médio na ETEC Professora Ilza Nascimento Pintus, onde me formei como técnica em Desenvolvimento de Sistemas. Em 2020, tive a oportunidade de participar do Hackathon Acadêmico do Centro Paula Souza e, juntamente com minha equipe, conquistamos o primeiro lugar. O projeto consistia em um irrigador automatizado com uso do ESP32, placas de energia solar e captação de água da chuva, o qual implementamos na horta de nossa escola.
+Meu nome é Debora Taira Novaes, tenho 21 anos e sou estudante de Análise e Desenvolvimento de Sistemas na FATEC Professor Jessen Vidal, atualmente cursando o 6º semestre. Cursei o ensino médio na ETEC Professora Ilza Nascimento Pintus, onde me formei como técnica em Desenvolvimento de Sistemas. Em 2020, participei do Hackathon Acadêmico do Centro Paula Souza e, junto com minha equipe, conquistamos o primeiro lugar com um projeto de irrigador automatizado, que utilizava ESP32, placas de energia solar e captação de água da chuva, implementado na horta da escola. Possuo uma breve experiência nas áreas de logística e administrativa, mas estou em busca de oportunidades na área de Análise e Desenvolvimento de Sistemas.
+
 
 ## Contatos
 ### Meu GitHub
@@ -31,11 +32,11 @@ Tenho conhecimento no uso de GitHub, Python, Photoshop e possuo grande interesse
 
 **FATEC - Professor Jessen Vidal**  
 
-A Faculdade de Tecnologia de São José dos Campos, sob a responsabilidade do Professor Jessen Vidal, é uma instituição pública do Centro Estadual de Educação Tecnológica Paula Souza, que oferece formação em diversas áreas, incluindo Análise e Desenvolvimento de Sistemas.
-
+A FATEC Professor Jessen Vidal, Faculdade de Tecnologia de São José dos Campos, é uma instituição pública do Centro Estadual de Educação Tecnológica Paula Souza, que oferece formação em diversas áreas, incluindo Análise e Desenvolvimento de Sistemas. Durante o desenvolvimento de projetos acadêmicos, o professor Antonio Egydio Graça atuou como cliente interno, colaborando diretamente com os alunos para atender às demandas reais das empresas parceiras.
 ### Problema
 
-A empresa parceira solicitou um sistema que possibilitasse a catalogação eficiente de vagas de emprego na área de TI, com informações relevantes como localização, benefícios e requisitos exigidos para cada vaga.
+A empresa parceira enfrentava dificuldades na organização e divulgação de vagas de emprego na área de TI, dificultando o acesso a informações como localização, benefícios e requisitos das vagas, o que tornava o processo de recrutamento ineficiente e desorganizado.
+
 
 ### Solução
 
@@ -105,8 +106,8 @@ As Soft Skills que utilizei durante o projeto foram:
 A TrackCash é uma empresa focada na gestão financeira, que auxilia negócios de diversos tamanhos na organização de suas finanças. A empresa oferece soluções B2B para conciliar vendas e pagamentos de várias plataformas, como e-commerce, marketplace e lojas físicas.
 
 **Problema**  
-O cliente apresentou a necessidade de uma aplicação onde seus clientes pudessem autorizar o acesso seguro aos seus dados financeiros, de forma simples e eficiente.
-
+ A TrackCash apresentava dificuldade em permitir que seus usuários autorizassem o acesso seguro aos dados financeiros de forma prática e eficiente. Sem uma solução integrada, o processo de compartilhamento dessas informações essenciais era complexo, inseguro e pouco eficiente, prejudicando a conciliação financeira e a integração entre diferentes plataformas de venda.
+ 
 **Solução**  
 Desenvolvemos um CRUD intuitivo que permite aos clientes da TrackCash autorizarem o acesso aos seus dados por meio de login (e-mail/senha) ou tokens. A aplicação também oferece configurações automatizadas com APIs e planilhas, armazenando essas informações de maneira segura.  
 
@@ -156,7 +157,7 @@ As softs skills que utilizei neste semestre foram:
 
 ---
 
-## Primeiro Semestre – 2023-1
+## Terceiro Semestre – 2023-1
 
 ### Empresa Parceira
 
@@ -285,7 +286,7 @@ As soft skills que utilizei durante o projeto foram:
 
 ---
 
-## Primeiro Semestre – 2024-1
+## Quinto Semestre – 2024-1
 
 **Oracle**  
 
@@ -342,4 +343,63 @@ As soft skills que utilizei durante o projeto foram:
 - **Tomada de Decisão**: Em um momento crítico do projeto, precisei decidir quais funcionalidades deveriam ser implementadas primeiro para garantir que o MVP (Produto Mínimo Viável) atendesse às necessidades do cliente. Após discutir com a equipe, priorizei o cadastro de novos parceiros e o sistema de relatórios, pois acreditava que isso traria mais valor logo no início, facilitando a coleta de feedback para melhorias futuras.
 
 ---
+ ---
+
+## Sexto Semestre – 2024-2
+
+**Dom Rock**  
+A Dom Rock é uma empresa brasileira especializada em análise de dados e inteligência artificial. Utilizando Big Data e machine learning, ela oferece soluções que ajudam grandes corporações a otimizar processos e tomar decisões mais informadas. A empresa utiliza uma plataforma de Big Data em nuvem para processar e analisar dados textuais, de áudio e imagens, identificando causas raiz e fornecendo insights valiosos, com foco em áreas como desempenho empresarial, otimização de portfólios e previsão de demanda. 
+
+### Problema
+O cliente possui uma grande base de dados com comentários de consumidores sobre seus produtos, mas enfrenta dificuldades em analisar e extrair rapidamente informações úteis dessa massa de dados. O processo manual de identificar padrões, sentimentos e insights valiosos é demorado e ineficiente, o que dificulta a adaptação de estratégias de vendas e melhorias de produtos com base nas opiniões dos consumidores.
+
+### Solução
+Desenvolver um chatbot baseado em IA generativa que automatiza a busca e análise dos comentários dos consumidores, fornecendo respostas rápidas em linguagem natural. Essa ferramenta permitirá aos representantes de marca acessar facilmente as percepções dos consumidores, identificar tendências e obter insights para melhorar os produtos e otimizar as estratégias de vendas de forma mais ágil e eficiente.
+
+
+c![Home](https://github.com/user-attachments/assets/b42b7949-9e4a-4052-81b5-df5f2f325ba2)
+
+
+### Projeto desenvolvido:
+- [Clique aqui para acessar o projeto!](https://github.com/TechForce-ADS/Oracle)
+
+- [Clique aqui para acessar o protótipo e imagens do projeto!](https://github.com/TechForce-ADS/Oracle/blob/main/Sprints-Prototipo.md)
+
+### Tecnologias Utilizadas
+As principais tecnologias usadas foram Python, Jupyter Notebook e Gemini IA. Detalhando:
+- **Python**: Linguagem de programação usada para análise de dados, inteligência artificial e automação de processos.
+- **Jupyter Notebook**: Ambiente interativo para análise de dados e prototipagem em Python, permitindo execução de código e visualização de resultados.
+- **Jira**: Ferramenta de gestão de projetos ágeis, utilizada para rastrear tarefas e o progresso do desenvolvimento de software.
+- **VS Code**: Editor de código-fonte versátil, com suporte para diversas linguagens de programação e integração com Git.
+- **GitHub**: Plataforma de hospedagem de código-fonte com controle de versão, usada para colaboração e gerenciamento de projetos de software.
+- **Gemini IA**: Plataforma de inteligência artificial generativa, utilizada para processar linguagem natural e criar respostas automatizadas baseadas em dados.
+- **Vue.js**: Framework JavaScript para criação de interfaces de usuário dinâmicas e responsivas.
+- **LangChain**: Biblioteca para integrar modelos de linguagem avançados em aplicativos, facilitando o processamento de dados e a interação com IA.
+
+
+### Contribuições Pessoais
+Atuei como **Scrum Master**, responsável por garantir que a minha equipe siga os processos ágeis, remover impedimentos e promover a melhoria contínua. 
+- **Mockup**: Desenvolvi o mockup da interface do usuário, criando um protótipo visual do sistema para ilustrar a experiência do usuário.
+- **Design das Apresentações**: Criei o design visual das apresentações do projeto, usando Canva e Photoshop, para garantir que a comunicação visual fosse clara e objetiva.
+- **Documentação do GitHub**: Redigi e organizei a documentação no GitHub, garantindo acessibilidade e clareza para todos os membros da equipe.
+- **Critérios de Permanência**: Estabeleci e monitorei os critérios de permanência da equipe.
+- **Padronização de Commit**: Implementei padrões claros para as mensagens de commit no Git, garantindo que todas as mudanças fossem bem documentadas, facilitando o controle de versão e a colaboração no desenvolvimento.
+- **Estratégia de Branches**: Defini a estratégia de branches para o projeto, organizando os fluxos de desenvolvimento com branches dedicados a funcionalidades, correções de bugs e testes, garantindo um processo de integração contínua eficiente.
+- **Reuniões Semanais**: Organizei e conduzi reuniões semanais de acompanhamento com a equipe, para revisar o progresso, discutir impedimentos e planejar as próximas etapas do projeto.
+- **Acompanhamento do Burndown**: Monitorei o gráfico de burndown para acompanhar o progresso da sprint, garantindo que a equipe estivesse no ritmo adequado para cumprir os objetivos planejados dentro do prazo.
+- **Gerenciamento do Backlog**: Gerenciei e mantive o backlog do projeto, priorizando as tarefas com base no valor para o cliente e no esforço necessário, assegurando que o time estivesse sempre focado nas atividades mais relevantes.
+  
+### Hard Skills
+Minhas hard skills desenvolvidas neste semestre incluem:
+- **Pacote Office**: Consigo utilizar com autonomia.
+- **GitHub**: Uso com autonomia.
+- **Jira**: Consigo realizar com autonomia.
+- **Canva e Photoshop**: Consigo realizar com autonomia.
+
+### Soft Skills
+As soft skills que utilizei durante o projeto foram:
  
+- **Reajuste na Distribuição de Tasks**: Durante a sprint, com a entrada e saída de membros da equipe, percebi a necessidade de readaptar a distribuição das tasks. Tomei a frente para reorganizar as responsabilidades, garantindo que todas as tarefas fossem redistribuídas de forma eficiente e que a equipe conseguisse continuar com o fluxo de trabalho sem comprometer o andamento do projeto.
+- **Gestão de Requisitos e Ajustes no Processo**: Durante o Sprint Review, percebi que os requisitos funcionais não estavam suficientemente claros, o que afetou negativamente a próxima sprint. Como não houve mudanças ou ajustes necessários durante a revisão, tomei a iniciativa de adicionar tasks para garantir que os requisitos fossem mais bem definidos e que o time tivesse clareza nas entregas da próxima fase do projeto.
+- **Apoio e Orientação à Equipe**: Durante a sprint, percebi que alguns membros da equipe não estavam compreendendo totalmente a metodologia Scrum. Para resolver isso, organizei reuniões de alinhamento, onde expliquei detalhadamente a importância de seguir o processo corretamente e de se atentar aos detalhes para garantir a entrega de resultados consistentes.
+- **Tomada de Decisão**: Em um momento crítico do projeto, foi necessário tomar a decisão de desligar um membro da equipe devido à sua falta de entrega de resultados e colaboração, impactando o progresso da API.
