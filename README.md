@@ -90,10 +90,14 @@ Minhas Hard Skills utilizadas nesse semestre incluem:
 
 As Soft Skills que utilizei durante o projeto foram:
 
-- **Comunicação:** Mantive um canal aberto de comunicação com os membros da equipe, promovendo conversas diárias. Isso foi essencial para resolver divergências de entendimento e para que todos estivessem alinhados quanto às tarefas e responsabilidades.
-- **Proatividade:** Assumi a função de Scrum Master quando houve uma reorganização na equipe. Essa iniciativa me permitiu ajudar a manter a organização e o foco nas metas, garantindo que as necessidades do cliente fossem atendidas.
-- **Trabalho em Equipe:** Fiz um esforço consciente para integrar novos membros ao grupo. Busquei unir a equipe em torno de um objetivo comum, mesmo diante de falhas e dificuldades. Essa colaboração foi fundamental para que conseguíssemos entregar o projeto de forma satisfatória.
-- **Liderança:** Após a saída do Scrum Master anterior, adaptei-me rapidamente ao novo papel. Minha capacidade de liderar a equipe durante esse período de transição foi importante para manter a motivação e a produtividade do grupo.
+- **Proatividade:**  
+  Assumi a função de Scrum Master quando houve uma reorganização na equipe. Essa iniciativa me permitiu ajudar a manter a organização e o foco nas metas, garantindo que as necessidades do cliente fossem atendidas.
+
+- **Trabalho em Equipe:**  
+  Fiz um esforço consciente para integrar novos membros ao grupo. Busquei unir a equipe em torno de um objetivo comum, mesmo diante de falhas e dificuldades. Essa colaboração foi fundamental para que conseguíssemos entregar o projeto de forma satisfatória.
+
+- **Liderança:**  
+  Após a saída do Scrum Master anterior, adaptei-me rapidamente ao novo papel. Minha capacidade de liderar a equipe durante esse período de transição foi importante para manter a motivação do grupo.
 
 ---
 
@@ -150,10 +154,11 @@ As hard skills que utilizei neste semestre foram:
 ### Soft Skills
 As softs skills que utilizei neste semestre foram:
 
-- **Trabalho em equipe:** Colaborei ativamente com meus colegas, assegurando que as tarefas fossem entregues dentro dos prazos estabelecidos. Acredito que a comunicação aberta foi fundamental para o sucesso do projeto.
-- **Criatividade:** Criei protótipos que atenderam às expectativas do cliente. Ao receber feedback, fiz ajustes nos designs para garantir que a interface fosse não apenas funcional, mas também visualmente atraente e intuitiva.
-- **Adaptabilidade:** Durante o desenvolvimento, enfrentamos desafios imprevistos que exigiram uma rápida adaptação. Por exemplo, ajustei a interface com base nas sugestões do cliente, garantindo que o projeto se mantivesse alinhado às suas necessidades.
-- **Empatia:** Ao trabalhar com membros da equipe, prestei atenção às dificuldades que alguns enfrentavam. Isso me levou a oferecer suporte adicional, criando um ambiente mais colaborativo e produtivo.
+- **Trabalho em equipe:**  
+  Minha equipe enfrentava diversas divergências pessoais que estavam impactando nosso desempenho coletivo. Embora minha função fosse de desenvolvedora, percebi que era importante intervir para promover a harmonia no time. Organizei conversas e procurei entender as diferentes perspectivas de cada membro, buscando mediar as questões de forma a garantir que todos se sentissem ouvidos e respeitados.
+
+- **Empatia:**  
+  Apesar da falta de profissionalismo que estava afetando a dinâmica da equipe, mantive uma postura calma e cautelosa para lidar com a situação. Assumi a responsabilidade de ser um ponto de comunicação entre os membros, buscando entender as diferentes preocupações e mediar as conversas.
 
 ---
 
@@ -222,10 +227,11 @@ Minhas Hard Skills utilizadas nesse semestre incluem:
 ### Soft Skills
 
 As Soft Skills que utilizei durante o projeto foram:
+- **Empatia:**  
+  Quando o Scrum Master assumiu a função no início do projeto, tomei a iniciativa de orientá-lo, explicando detalhadamente as responsabilidades e processos envolvidos. Ofereci apoio contínuo durante o desenvolvimento da API, garantindo que ele se sentisse confiante em sua função e capaz de lidar com os desafios do projeto.
 
-- **Empatia**: Durante o projeto, eu realmente tentei entender a perspectiva dos usuários finais. Isso me ajudou a garantir que a interface que criamos fosse fácil de usar e atendesse às necessidades deles. Por exemplo, quando fizemos testes de usabilidade, prestei atenção nas dificuldades que os usuários tinham e sugeri melhorias baseadas no feedback deles.
-- **Comunicação**: Mantive uma conversa constante com o cliente e com minha equipe. Sempre que o cliente tinha uma dúvida ou um pedido específico, eu transmitia isso de forma clara para o time, usando o Slack. Isso garantiu que todos estivessem na mesma página e soubessem exatamente o que era esperado.
-- **Flexibilidade**: O projeto teve algumas mudanças de direção com base no feedback do cliente. Quando recebemos sugestões para ajustar algumas funcionalidades, eu ajudei a reorganizar nossas prioridades, garantindo que conseguíssemos implementar as mudanças a tempo. Isso foi importante para que o cliente ficasse satisfeito com o resultado final.
+- **Proatividade:**  
+  Quando percebi falhas na comunicação e que a equipe não estava totalmente a par do andamento do projeto, tomei a iniciativa de organizar reuniões, mesmo não sendo minha responsabilidade direta. Durante essas reuniões, redistribuí as tarefas e procurei entender os motivos das dificuldades enfrentadas pela equipe.
 
 ---
 
@@ -278,11 +284,11 @@ Minhas hard skills desenvolvidas nesse semestre incluem:
 ### Soft Skills
 As soft skills que utilizei durante o projeto foram:
 
-- **Empatia**: Durante as reuniões, procurei entender as dificuldades dos desenvolvedores e simplifiquei a comunicação, promovendo um ambiente colaborativo. Por exemplo, organizei sessões de feedback onde todos puderam expressar suas preocupações sobre o fluxo de trabalho.
-- **Comunicação**: Mantive uma comunicação clara e objetiva com a equipe. Quando o Product Owner trouxe mudanças, imediatamente informei todos os membros sobre como isso afetaria nosso planejamento, garantindo que ninguém ficasse desinformado.
-- **Flexibilidade**: Ao receber feedbacks que sugeriam mudanças no projeto, reorganizei as prioridades e ajustei o cronograma da sprint, permitindo que a equipe se adaptasse rapidamente às novas demandas.
-- **Solução de Problemas**: Quando a equipe enfrentou dificuldades técnicas, organizei uma reunião para discutir as questões e encontramos juntos uma solução. Essa abordagem colaborativa ajudou a manter o progresso do projeto, mesmo diante de desafios inesperados.
+- **Criatividade:**  
+  Diante da falta de entendimento do projeto, tanto na parte lógica quanto visual, desenvolvi um passo a passo detalhado para guiar os programadores. Esse processo ajudou a esclarecer as expectativas e garantir que todos compreendessem claramente suas tarefas, facilitando a execução do trabalho e melhorando a eficiência da equipe.
 
+- **Assertividade:**  
+  Durante uma apresentação da sprint, percebi que a postura da Product Owner não estava alinhada com o profissionalismo esperado, o que afetou o andamento da reunião. De forma assertiva, repreendi a situação, destacando a importância de manter uma postura adequada durante as apresentações. Também tomei medidas para garantir que isso não se repetisse, preservando o respeito e a produtividade no ambiente de trabalho.
 
 ---
 
@@ -337,12 +343,12 @@ Minhas hard skills desenvolvidas neste semestre incluem:
 
 ### Soft Skills
 As soft skills que utilizei durante o projeto foram:
+- **Tomada de decisão:**  
+  Diante da falta de feedback externo, tomei a iniciativa de decidir como prosseguir para garantir o avanço do projeto. Priorizando os requisitos essenciais, implementei melhorias estratégicas que não apenas atendiam às expectativas iniciais, mas também agregavam valor ao resultado final.
 
-- **Clareza**: Quando recebi as demandas do cliente, tomei o tempo necessário para entender cada um dos requisitos. Em reuniões, me certifiquei de que todos na equipe compreendessem exatamente o que era esperado. Por exemplo, ao explicar como o sistema deveria gerenciar as informações dos parceiros, usei exemplos práticos para que todos pudessem visualizar o resultado final.
+- **Proatividade:**  
+  Com a ausência do Scrum Master nas reuniões com o professor, assumi a responsabilidade de representá-lo, garantindo que as informações fossem alinhadas corretamente. Além disso, organizei reuniões com a equipe para repassar os pontos discutidos, assegurar o entendimento de todos e manter o progresso do projeto dentro do planejamento.
 
-- **Tomada de Decisão**: Em um momento crítico do projeto, precisei decidir quais funcionalidades deveriam ser implementadas primeiro para garantir que o MVP (Produto Mínimo Viável) atendesse às necessidades do cliente. Após discutir com a equipe, priorizei o cadastro de novos parceiros e o sistema de relatórios, pois acreditava que isso traria mais valor logo no início, facilitando a coleta de feedback para melhorias futuras.
-
----
  ---
 
 ## Sexto Semestre – 2024-2
@@ -357,7 +363,7 @@ O cliente possui uma grande base de dados com comentários de consumidores sobre
 Desenvolver um chatbot baseado em IA generativa que automatiza a busca e análise dos comentários dos consumidores, fornecendo respostas rápidas em linguagem natural. Essa ferramenta permitirá aos representantes de marca acessar facilmente as percepções dos consumidores, identificar tendências e obter insights para melhorar os produtos e otimizar as estratégias de vendas de forma mais ágil e eficiente.
 
 
-c![Home](https://github.com/user-attachments/assets/b42b7949-9e4a-4052-81b5-df5f2f325ba2)
+![Home](https://github.com/user-attachments/assets/b42b7949-9e4a-4052-81b5-df5f2f325ba2)
 
 
 ### Projeto desenvolvido:
@@ -398,8 +404,15 @@ Minhas hard skills desenvolvidas neste semestre incluem:
 
 ### Soft Skills
 As soft skills que utilizei durante o projeto foram:
- 
-- **Reajuste na Distribuição de Tasks**: Durante a sprint, com a entrada e saída de membros da equipe, percebi a necessidade de readaptar a distribuição das tasks. Tomei a frente para reorganizar as responsabilidades, garantindo que todas as tarefas fossem redistribuídas de forma eficiente e que a equipe conseguisse continuar com o fluxo de trabalho sem comprometer o andamento do projeto.
-- **Gestão de Requisitos e Ajustes no Processo**: Durante o Sprint Review, percebi que os requisitos funcionais não estavam suficientemente claros, o que afetou negativamente a próxima sprint. Como não houve mudanças ou ajustes necessários durante a revisão, tomei a iniciativa de adicionar tasks para garantir que os requisitos fossem mais bem definidos e que o time tivesse clareza nas entregas da próxima fase do projeto.
-- **Apoio e Orientação à Equipe**: Durante a sprint, percebi que alguns membros da equipe não estavam compreendendo totalmente a metodologia Scrum. Para resolver isso, organizei reuniões de alinhamento, onde expliquei detalhadamente a importância de seguir o processo corretamente e de se atentar aos detalhes para garantir a entrega de resultados consistentes.
-- **Tomada de Decisão**: Em um momento crítico do projeto, foi necessário tomar a decisão de desligar um membro da equipe devido à sua falta de entrega de resultados e colaboração, impactando o progresso da API.
+- **Liderança:**  
+  Durante a sprint, com a entrada e saída de membros da equipe, percebi a necessidade de readaptar a distribuição das tasks. Tomei a frente para reorganizar as responsabilidades, garantindo que todas as tarefas fossem redistribuídas de forma eficiente e que a equipe conseguisse continuar com o fluxo de trabalho sem comprometer o andamento do projeto.
+
+- **Pensamento Crítico:**  
+  Durante o Sprint Review, percebi que os requisitos funcionais não estavam suficientemente claros, o que afetou negativamente a próxima sprint. Como não houve mudanças ou ajustes necessários durante a revisão, tomei a iniciativa de adicionar tasks para garantir que os requisitos fossem mais bem definidos e que o time tivesse clareza nas entregas da próxima fase do projeto.
+
+- **Comunicação:**  
+  Durante a sprint, percebi que alguns membros da equipe não estavam compreendendo totalmente a metodologia Scrum. Para resolver isso, organizei reuniões de alinhamento, onde expliquei detalhadamente a importância de seguir o processo corretamente e de se atentar aos detalhes para garantir a entrega de resultados consistentes.
+
+- **Solução de problemas:**  
+  Identifiquei que a falta de entrega de um membro comprometia o progresso da API. Após análise, tomei a decisão de propor seu desligamento, garantindo o restabelecimento do fluxo de trabalho e o foco nos objetivos do projeto.
+
