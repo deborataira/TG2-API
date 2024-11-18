@@ -288,7 +288,7 @@ As soft skills que utilizei durante o projeto foram:
   Diante da falta de entendimento do projeto, tanto na parte lógica quanto visual, desenvolvi um passo a passo detalhado para guiar os programadores. Esse processo ajudou a esclarecer as expectativas e garantir que todos compreendessem claramente suas tarefas, facilitando a execução do trabalho e melhorando a eficiência da equipe.
 
 - **Assertividade:**  
-  Durante uma apresentação da sprint, percebi que a postura da Product Owner não estava alinhada com o profissionalismo esperado, o que afetou o andamento da reunião. De forma assertiva, repreendi a situação, destacando a importância de manter uma postura adequada durante as apresentações. Também tomei medidas para garantir que isso não se repetisse, preservando o respeito e a produtividade no ambiente de trabalho.
+  Durante uma apresentação da sprint, percebi que a postura de um membro da equipe (PO) não estava alinhada com o profissionalismo esperado, o que afetou o andamento da reunião. De forma assertiva, repreendi a situação, destacando a importância de manter uma postura adequada durante as apresentações. Também tomei medidas para garantir que isso não se repetisse, preservando o respeito e a produtividade no ambiente de trabalho.
 
 ---
 
