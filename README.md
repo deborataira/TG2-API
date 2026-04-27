@@ -6,7 +6,7 @@
 <img src="https://github.com/deborataira/imagens/blob/main/foto%20perfil.jpeg" width="250" height="300" align="center">
 </p>
 
-Meu nome é Debora Taira Novaes, tenho 21 anos e sou estudante de Análise e Desenvolvimento de Sistemas na FATEC Professor Jessen Vidal, atualmente cursando o 6º semestre. Cursei o ensino médio na ETEC Professora Ilza Nascimento Pintus, onde me formei como técnica em Desenvolvimento de Sistemas. Em 2020, participei do Hackathon Acadêmico do Centro Paula Souza e, junto com minha equipe, conquistamos o primeiro lugar com um projeto de irrigador automatizado, que utilizava ESP32, placas de energia solar e captação de água da chuva, implementado na horta da escola. Possuo uma breve experiência nas áreas de logística e administrativa, mas estou em busca de oportunidades na área de Análise e Desenvolvimento de Sistemas.
+Meu nome é Debora Taira Novaes, tenho 22 anos e sou estudante de Análise e Desenvolvimento de Sistemas na FATEC Professor Jessen Vidal, atualmente cursando o 6º semestre. Cursei o ensino médio na ETEC Professora Ilza Nascimento Pintus, onde me formei como técnica em Desenvolvimento de Sistemas. Em 2020, participei do Hackathon Acadêmico do Centro Paula Souza e, junto com minha equipe, conquistamos o primeiro lugar com um projeto de irrigador automatizado, que utilizava ESP32, placas de energia solar e captação de água da chuva, implementado na horta da escola. Possuo uma breve experiência nas áreas de logística e administrativa, atualmente estágio na área mas estou em busca de oportunidades na área de Análise e Desenvolvimento de Sistemas.
 
 
 ## Contatos
