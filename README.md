@@ -367,9 +367,9 @@ Desenvolver um chatbot baseado em IA generativa que automatiza a busca e anális
 
 
 ### Projeto desenvolvido:
-- [Clique aqui para acessar o projeto!](https://github.com/TechForce-ADS/Oracle)
+- [Clique aqui para acessar o projeto!](https://github.com/TechForce-ADS/DomRock)
 
-- [Clique aqui para acessar o protótipo e imagens do projeto!](https://github.com/TechForce-ADS/Oracle/blob/main/Sprints-Prototipo.md)
+- [Clique aqui para acessar o protótipo e imagens do projeto!](https://github.com/TechForce-ADS/DomRock/blob/main/Docs/Mockup%20Dom%20Rock.pdf)
 
 ### Tecnologias Utilizadas
 As principais tecnologias usadas foram Python, Jupyter Notebook e Gemini IA. Detalhando:
