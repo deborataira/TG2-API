@@ -3,11 +3,13 @@
 
 ## Introdução
 <p align="center">
-<img src="https://github.com/deborataira/imagens/blob/main/foto%20perfil.jpeg" width="250" height="300" align="center">
+<img width="250" height="300" align="center" alt="foto_perfil" src="https://github.com/user-attachments/assets/6834f114-3061-42c6-80a3-8fae068a5305" />
 </p>
+<p align="justify">
 Meu nome é Debora Taira Novaes, tenho 22 anos e sou estudante de Análise e Desenvolvimento de Sistemas na FATEC Professor Jessen Vidal, atualmente cursando o 6º semestre. Minha trajetória na tecnologia começou no ensino médio técnico na ETEC, onde me formei em Desenvolvimento de Sistemas e conquistei o 1º lugar no Hackathon Acadêmico do CPS em 2020, junto com minha equipe, com um projeto de irrigador automatizado, que utilizava ESP32, placas de energia solar e captação de água da chuva, implementado na horta da escola. Conheci a FATEC por indicação de professores da ETEC, incluindo dois docentes que foram ex-alunos da instituição e que serviram de referência para a minha escolha de faculdade. Quando iniciei a graduação, eu não conhecia a metodologia de Aprendizagem por Projetos Integradores (API). No entanto, a experiência prática de trabalhar com empresas parceiras reais desde o primeiro semestre me fez ter certeza da escolha do curso. As APIs me permitiram aplicar conceitos técnicos e descobrir que a área de tecnologia envolve papéis fundamentais de liderança, comunicação e gestão, indo muito além do desenvolvimento de código isolado.Possuo uma breve experiência nas áreas de logística e administrativa, atualmente estágio na área mas estou em busca de oportunidades na área de Análise e Desenvolvimento de Sistemas.
-
-
+</p>
+<p align="justify">
+    
 ## Contatos
 ### Meu GitHub
 
@@ -20,25 +22,27 @@ Meu nome é Debora Taira Novaes, tenho 22 anos e sou estudante de Análise e Des
 ## Meus Principais Conhecimentos
 Tenho conhecimento no uso de GitHub, Python, Photoshop e possuo grande interesse em comunicação, gerenciamento, análise de requisitos e design.
 
+</p>
 
+
+ 
 ---
-
-
 
 ## Primeiro Semestre – 2022-1
 
 ### Empresa Parceira
 
 **FATEC - Professor Jessen Vidal**  
-
+<p align="justify">
 A FATEC Professor Jessen Vidal, Faculdade de Tecnologia de São José dos Campos, é uma instituição pública do Centro Estadual de Educação Tecnológica Paula Souza, que oferece formação em diversas áreas, incluindo Análise e Desenvolvimento de Sistemas. Durante o desenvolvimento de projetos acadêmicos, o professor Antonio Egydio Graça atuou como cliente interno, colaborando diretamente com os alunos para atender às demandas reais das empresas parceiras.
-### Problema
 
+### Problema
+<p align="justify">
 A empresa parceira enfrentava dificuldades na organização e divulgação de vagas de emprego na área de TI, dificultando o acesso a informações como localização, benefícios e requisitos das vagas, o que tornava o processo de recrutamento ineficiente e desorganizado.
 
 
 ### Solução
-
+<p align="justify">
 Desenvolvemos o "DispVag", um Sistema Web intuitivo para a catalogação de vagas de emprego. O site armazena informações detalhadas sobre as vagas disponíveis, incluindo gráficos para visualização de dados e uma seção de perguntas frequentes para esclarecer dúvidas dos usuários. 
 
 ![image](https://github.com/user-attachments/assets/f93f9436-7c82-46c8-99b3-e10009ea3178)
@@ -98,20 +102,24 @@ As Soft Skills que utilizei durante o projeto foram:
 - **Liderança:**  
   Após a saída do Scrum Master anterior, adaptei-me rapidamente ao novo papel. Minha capacidade de liderar a equipe durante esse período de transição foi importante para manter a motivação do grupo.
 
+
+</p>
+ 
 ---
 
+## Segundo Semestre – 2022-2
 
-### Segundo Semestre – 2022-2
-
-**Empresa Parceira**  
-**TRACKCASH**  
-
+### Empresa Parceira
+<p align="justify">   
 A TrackCash é uma empresa focada na gestão financeira, que auxilia negócios de diversos tamanhos na organização de suas finanças. A empresa oferece soluções B2B para conciliar vendas e pagamentos de várias plataformas, como e-commerce, marketplace e lojas físicas.
-
+<p align="justify">
+    
 **Problema**  
+<p align="justify">
  A TrackCash apresentava dificuldade em permitir que seus usuários autorizassem o acesso seguro aos dados financeiros de forma prática e eficiente. Sem uma solução integrada, o processo de compartilhamento dessas informações essenciais era complexo, inseguro e pouco eficiente, prejudicando a conciliação financeira e a integração entre diferentes plataformas de venda.
- 
+     
 **Solução**  
+<p align="justify">
 Desenvolvemos um CRUD intuitivo que permite aos clientes da TrackCash autorizarem o acesso aos seus dados por meio de login (e-mail/senha) ou tokens. A aplicação também oferece configurações automatizadas com APIs e planilhas, armazenando essas informações de maneira segura.  
 
 ![image](https://github.com/user-attachments/assets/c55e3071-4155-4263-a31f-6d89d72ae108)
@@ -160,26 +168,27 @@ As softs skills que utilizei neste semestre foram:
   Apesar da falta de profissionalismo que estava afetando a dinâmica da equipe, mantive uma postura calma e cautelosa para lidar com a situação. Assumi a responsabilidade de ser um ponto de comunicação entre os membros, buscando entender as diferentes preocupações e mediar as conversas.
 
 ---
+</p>
+<p align="justify">
 
+    
 ## Terceiro Semestre – 2023-1
 
 ### Empresa Parceira
 
 **VISIONA - Tecnologia Espacial**  
-
+<p align="justify">
 A Visiona Tecnologia Espacial foi fundada em 2012 como uma parceria estratégica entre a Embraer Defesa & Segurança e a Telebras. A empresa se dedica à integração de sistemas espaciais e à oferta de serviços via satélite, atendendo tanto os objetivos do Programa Espacial Brasileiro quanto as demandas do mercado.
 
 ### Problema
-
+<p align="justify">
 O cliente enfrentava a falta de um sistema de gerenciamento de usuários que incluísse autenticação e autorização para o uso de seus serviços. O sistema deveria permitir a adição, edição, exclusão e visualização de usuários, além de gerar dashboards com dados específicos.
 
 ### Solução
-
+<p align="justify">
 Desenvolvemos uma interface de gerenciamento intuitiva que atende aos parâmetros estabelecidos pelo cliente. A plataforma permite listar, adicionar, editar, deletar usuários e atribuir permissões, além de gerar dashboards para visualização de dados.
 
 ![image](https://github.com/user-attachments/assets/3745cab3-f67b-4769-bbf7-f21c1ed93951)
-
-
 
 
 ### Link do Repositório Git
@@ -233,18 +242,23 @@ As Soft Skills que utilizei durante o projeto foram:
   Quando percebi falhas na comunicação e que a equipe não estava totalmente a par do andamento do projeto, tomei a iniciativa de organizar reuniões, mesmo não sendo minha responsabilidade direta. Durante essas reuniões, redistribuí as tarefas e procurei entender os motivos das dificuldades enfrentadas pela equipe.
 
 ---
+</p>
 
+<p align="justify">
+    
 ## Quarto Semestre – 2023-2
 
 ### Empresa Parceira
 **Grenneat** - Limpeza Sustentável  
-
+<p align="justify">
 A Grenneat atua no desenvolvimento de produtos de limpeza sustentáveis, focando na economia circular e na comercialização de saneantes.
 
 ### Problema
+<p align="justify">
 O Brasil enfrenta um desafio ambiental grave, com apenas 2% do óleo vegetal sendo reciclado. A maioria do óleo descartado é tratada de maneira inadequada, causando danos ao meio ambiente. Embora existam cooperativas e indivíduos coletando óleo em restaurantes, não há um sistema eficaz para incentivar e gerenciar essa reciclagem de forma abrangente.
 
 ### Solução
+<p align="justify">
 Desenvolvemos uma plataforma para engajar todos os agentes na cadeia de descarte e reciclagem do óleo usado. Com um sistema de créditos, estabelecimentos cadastrados podem acumular pontos ao descartar o óleo, que são trocados por produtos de limpeza sustentável na loja virtual da Grenneat. Isso promove a economia circular, reciclando o óleo em produtos de limpeza que podem ser adquiridos pelos participantes do sistema.
 
 ![image](https://github.com/user-attachments/assets/84d632ba-9334-42a7-91c9-ad54bcee1942)
@@ -288,19 +302,23 @@ As soft skills que utilizei durante o projeto foram:
 
 - **Assertividade:**  
   Durante uma apresentação da sprint, percebi que a postura de um membro da equipe (PO) não estava alinhada com o profissionalismo esperado, o que afetou o andamento da reunião. De forma assertiva, repreendi a situação, destacando a importância de manter uma postura adequada durante as apresentações. Também tomei medidas para garantir que isso não se repetisse, preservando o respeito e a produtividade no ambiente de trabalho.
+</p>
 
 ---
-
+<p align="justify">
+    
 ## Quinto Semestre – 2024-1
 
 **Oracle**  
-
+<p align="justify">
 A Oracle é uma referência em tecnologia da informação, especializada em soluções para gerenciamento de banco de dados. Com sua fundação em 1977, a empresa atende mais de 400 mil clientes em 140 países, buscando sempre acelerar a inovação nos negócios.
 
 ### Problema
+<p align="justify">
 A Oracle enfrenta desafios significativos na gestão dos seus parceiros de negócio, principalmente na questão do cadastro, atualização de informações, acompanhamento do desenvolvimento e geração de relatórios.
 
 ### Solução
+<p align="justify">
 Desenvolvemos um sistema de gestão de parceiros, voltado para dispositivos móveis. Essa plataforma permite listar todos os parceiros, monitorar o progresso de aprendizado, registrar as habilidades adquiridas, cadastrar novos parceiros, gerar relatórios de desempenho e exibir dashboards informativos sobre o status dos parceiros e suas competências.
 
 
@@ -347,18 +365,23 @@ As soft skills que utilizei durante o projeto foram:
 
 - **Proatividade:**  
   Com a ausência do Scrum Master nas reuniões com o professor, assumi a responsabilidade de representá-lo, garantindo que as informações fossem alinhadas corretamente. Além disso, organizei reuniões com a equipe para repassar os pontos discutidos, assegurar o entendimento de todos e manter o progresso do projeto dentro do planejamento.
+</p>
 
  ---
-
+<p align="justify">
+    
 ## Sexto Semestre – 2024-2
-
+    
 **Dom Rock**  
+<p align="justify">
 A Dom Rock é uma empresa brasileira especializada em análise de dados e inteligência artificial. Utilizando Big Data e machine learning, ela oferece soluções que ajudam grandes corporações a otimizar processos e tomar decisões mais informadas. A empresa utiliza uma plataforma de Big Data em nuvem para processar e analisar dados textuais, de áudio e imagens, identificando causas raiz e fornecendo insights valiosos, com foco em áreas como desempenho empresarial, otimização de portfólios e previsão de demanda. 
 
 ### Problema
+<p align="justify">
 O cliente possui uma grande base de dados com comentários de consumidores sobre seus produtos, mas enfrenta dificuldades em analisar e extrair rapidamente informações úteis dessa massa de dados. O processo manual de identificar padrões, sentimentos e insights valiosos é demorado e ineficiente, o que dificulta a adaptação de estratégias de vendas e melhorias de produtos com base nas opiniões dos consumidores.
 
 ### Solução
+<p align="justify">
 Desenvolver um chatbot baseado em IA generativa que automatiza a busca e análise dos comentários dos consumidores, fornecendo respostas rápidas em linguagem natural. Essa ferramenta permitirá aos representantes de marca acessar facilmente as percepções dos consumidores, identificar tendências e obter insights para melhorar os produtos e otimizar as estratégias de vendas de forma mais ágil e eficiente.
 
 
@@ -415,3 +438,4 @@ As soft skills que utilizei durante o projeto foram:
 - **Solução de problemas:**  
   Identifiquei que a falta de entrega de um membro comprometia o progresso da API. Após análise, tomei a decisão de propor seu desligamento, garantindo o restabelecimento do fluxo de trabalho e o foco nos objetivos do projeto.
 
+</p>
